@@ -1,7 +1,5 @@
 # ORB-SLAM2 超详细注释
 
-![qrcode](https://github.com/electech6/ORBSLAM2_detailed_comments/blob/master/myqrcode.png)
-
 ----
 
 
